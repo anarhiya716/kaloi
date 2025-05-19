@@ -56,7 +56,7 @@ export function Contacts() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-indigo-600 mb-2">Телефон</h3>
-                  <p className="text-gray-600">+7 (999) 555-46-20</p>
+                  <p className="text-gray-600">+7 (996) 555-46-20</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-indigo-600 mb-2">Email</h3>

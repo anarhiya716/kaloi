@@ -21,7 +21,7 @@ const Footer = () => {
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Контакты</h3>
-            <p className="text-gray-300 mb-4">+7 (999) 555-46-20</p>
+            <p className="text-gray-300 mb-4">+7 (996) 555-46-20</p>
             <p className="text-gray-300">ООО "Калои.ру"</p>
             <p className="text-gray-300">ИНН: 7733466973</p>  
             <p className="text-gray-300">ОГРН: 1257700168241</p>
