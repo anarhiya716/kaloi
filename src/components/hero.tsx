@@ -8,7 +8,7 @@ const HeroSection = () => {
 
         {/* Main Heading */}
         <h1 className="max-w-3xl mx-auto text-center font-bold text-4xl text-gray-900 mb-5 md:text-5xl leading-[50px]">
-          Добро пожаловать в Kaloi. Центр где таланты находят свое применение
+          Добро пожаловать в Razenko. Центр где таланты находят свое применение
         </h1>
 
         {/* Subheading */}
