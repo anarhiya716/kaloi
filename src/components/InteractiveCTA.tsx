@@ -76,7 +76,7 @@ export default function InteractiveCTA() {
         {showGraph && (
           <div ref={graphRef} className="mb-8">
             <div className="mb-4 text-xl font-medium text-gray-900 text-center">
-              С Kaloi вы могли бы получать <span className="text-indigo-600 font-bold">₽{boostedSalary.toLocaleString()}</span>
+              С Razenko вы могли бы получать <span className="text-indigo-600 font-bold">₽{boostedSalary.toLocaleString()}</span>
             </div>
             
             <div className="flex items-end h-48 gap-8 mb-4 max-w-2xl mx-auto">
