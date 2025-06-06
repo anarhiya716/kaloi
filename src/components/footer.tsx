@@ -23,7 +23,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Контакты</h3>
             <p className="text-gray-300 mb-4">+7 (996) 555-46-20</p>
             <p className="text-gray-300">ООО "Калои.ру"</p>
-            <p className="text-gray-300">ИНН: 7733466973</p>  
+            <p className="text-gray-300">ИНН: 240800235475</p>
             <p className="text-gray-300">ОГРН: 1257700168241</p>
             <p className="text-gray-300">Юридический адрес: 125363, Москва, Cходненская ул, дом 7б, строение 3, помещение 5/1</p>
           </div>
