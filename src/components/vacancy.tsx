@@ -77,7 +77,7 @@ export const Vacancy = () => {
     <div className="bg-gray-50 py-24 sm:py-32">
       <div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
         <h2 className="text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-          Сейчас ищут через Kaloi:
+          Сейчас ищут через Razenko:
         </h2>
         
         <div className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
