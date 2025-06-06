@@ -25,7 +25,7 @@ const Footer = () => {
             <p className="text-gray-300">ООО "Разенко.инфо"</p>
             <p className="text-gray-300">ИНН: 240800235475</p>
             <p className="text-gray-300">ОГРН: 325246800071755</p>
-            <p className="text-gray-300">Юридический адрес: 125363, Москва, Cходненская ул, дом 7б, строение 3, помещение 5/1</p>
+            <p className="text-gray-300">Деятельность рекламных агентств</p>
           </div>
         </div>
       </footer>
